@@ -84,19 +84,19 @@ To perform the analysis, follow these steps:
 
 ### Python Scripts
 
-- **gini_coefficient_analysis.py**: Analyzes the relationship between the Gini coefficient (income inequality) and suicide rates.
-- **human_development_index_analysis.py**: Investigates the correlation between the Human Development Index (HDI) and suicide rates.
+- **gini_coefficient_analysis.py**: Displays the Gini coefficient for each country sorted by the correlation coefficient with suicide rates.
+- **human_development_index_analysis.py**: Displays the Human Development Index (HDI) for each country sorted by the correlation coefficient with suicide rates.
 
 ### R Scripts
 
 - **correlation_and_trends_analysis.R**: General analysis of correlation and trends between various indicators and suicide rates.
 - **gdp_suicide_rate_analysis.R**: Analyzes the relationship between GDP per capita and suicide rates.
-- **health_expenses_analysis.R**: Examines the impact of health expenses on suicide rates.
-- **sunshine_analysis.R**: Studies the correlation between sunshine duration and suicide rates.
+- **health_expenses_analysis.R**: Displays the health expenses for each country sorted by the correlation coefficient with suicide rates.
+- **sunshine_analysis.R**: Displays the sunshine duration for each country sorted by the correlation coefficient with suicide rates.
 
 ## Results
 
-The results of the analyses are saved in the `results` directory. This includes:
+The results of the analyses are saved in the `suicide-wealth-pp.pdf` directory. This includes:
 
 - Summary statistics
 - Correlation matrices
@@ -113,15 +113,3 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 4. Submit a pull request
 
 Please ensure your code follows the project's coding standards and includes appropriate tests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-If you have any questions or comments about the project, feel free to contact the project maintainer:
-
-- Duc Nguyen: duc.nguyen@example.com
-
-We hope you find this project useful and informative. Thank you for your interest!
