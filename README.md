@@ -30,6 +30,12 @@ The datasets used in this project are sourced from various reputable sources inc
 
 The data includes information on suicide rates per 100,000 people and various indicators such as GDP per capita, Gini coefficient, health expenses, Human Development Index (HDI), and sunshine duration.
 
+### Data Sources
+
+- [Human Development Index Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/human-development-index-dataset)
+- [Gini Coefficient of Countries](https://www.kaggle.com/datasets/therockk/gini-coefficient-of-countries)
+- [Suicide Rates Overview 1985 to 2016](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016)
+
 ## Installation
 
 ### Python
@@ -43,10 +49,8 @@ pip install -r requirements.txt
 The main libraries used in this project are:
 
 - pandas
-- numpy
 - matplotlib
 - seaborn
-- scikit-learn
 
 ### R
 
