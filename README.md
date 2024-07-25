@@ -83,6 +83,7 @@ To perform the analysis, follow these steps:
     ```R
     Rscript gdp_suicide_rate_analysis.R
     ```
+   For R scripts, you can also create an R project in RStudio, load the scripts, and run them directly within the IDE for an enhanced workflow.
 
 ## Files Description
 
