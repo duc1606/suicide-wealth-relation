@@ -13,8 +13,7 @@ This repository contains the code and data for analyzing the relationship betwee
 - [Files Description](#files-description)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Introduction
 
